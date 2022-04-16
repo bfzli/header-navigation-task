@@ -1,0 +1,18 @@
+{
+    "header": {
+        "title": "Navigation",
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "contact": "Contact"
+    },
+    "settings": {
+        "title": "Settings",
+        "theme": "Theme",
+        "language": "Language",
+        "albanian": "Shqip",
+        "english": "English",
+        "lightmode": "Light Mode",
+        "darkmode": "Dark Mode"
+    }
+}

@@ -1,0 +1,23 @@
+.logo {
+    width: 10em;
+    fill: var(--color-dark)
+}
+
+.logo:hover {
+    cursor: pointer;
+}
+
+.nav {
+    width: 1.5em;
+    stroke: var(--color-dark)
+}
+
+.close_icon{
+    width: .75em;
+    stroke: var(--color-dark)
+}
+
+.link_icon{
+    width: 1.4em;
+    stroke: var(--color-dark)
+}

@@ -1,0 +1,43 @@
+:root, #lightmode {
+    --bg-light: #FCFCFC;
+    --bg-light-reverse: red;
+    --bg-dark: #F6F6F6;
+    --bg-dark-reverse: red;
+    --color-dark: #1A1A1A;
+    --color-dark-reverse: #F9F9F9;
+    --color-light: #7D7D7E;
+    --color-light-reverse: #FEFEF6;
+    --border: #F2F2F2;
+    --hover: #EAE8FD;
+    --item: #EAE8FD15;
+    --gradient: linear-gradient(103.16deg, #C4C4C4 0%, #7C62FF 0.01%, #A99AFF 100%);
+    --font: 'Poppins', sans-serif;
+    --spacing: 1.25em;
+    --spacing-sm: .85em;
+    --line-height: 1.2;
+    --radius: .75em;
+    --radius-sharp: 1.5em;
+    --animate: all ease-in-out .3s;
+}
+
+#darkmode {
+    --bg-light: #323131;
+    --bg-light-reverse: red;
+    --bg-dark: #2E2A29;
+    --bg-dark-reverse: red;
+    --color-dark: #F6F6F6;
+    --color-dark-reverse: #F9F9F9;
+    --color-light: #7D7D7E;
+    --color-light-reverse: #FEFEF6;
+    --border: #413f3f;
+    --hover: #EAE8FD;
+    --item: #EAE8FD15;
+    --gradient: linear-gradient(103.16deg, #C4C4C4 0%, #7C62FF 0.01%, #A99AFF 100%);
+    --font: 'Poppins', sans-serif;
+    --spacing: 1.25em;
+    --spacing-sm: .6em;
+    --line-height: 1.2;
+    --radius: .75em;
+    --radius-sharp: 1.5em;
+    --animate: all ease-in-out .3s;
+}

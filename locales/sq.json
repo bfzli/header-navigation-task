@@ -1,0 +1,18 @@
+{
+    "header": {
+        "title": "Navigimi",
+        "home": "Ballina",
+        "about": "Rreth Nesh",
+        "services": "Shërbimet",
+        "contact": "Na kontaktoni"
+    },
+    "settings": {
+        "title": "Konfigurimet",
+        "theme": "Pamja",
+        "language": "Gjuha",
+        "albanian": "Shqip",
+        "english": "Anglisht",
+        "lightmode": "Pamja e Ditës",
+        "darkmode": "Pamja e Natës"
+    }
+}
